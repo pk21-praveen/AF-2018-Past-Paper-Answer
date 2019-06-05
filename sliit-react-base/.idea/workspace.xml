@@ -1,209 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6aa4a0ce-cee7-459c-86c8-92049118a232" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.cache/00/26d899dac929c44079f55650d23ad8.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/00/809750c5677467a35ab87775e93cdf.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/00/e2213621710217023b5feb79f26e1f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/09/7b7165818e2b131e873ee5599f302b.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/0c/5d76d237f79134b2508c81faf2823b.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/0c/d1270cdc2557df700636f05fa8adac.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/0d/1c39d76bd644eabfb030640b59d6c1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/0d/a2c6fc21885caad0461ee5f550b097.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/0e/b4f5799e8f2bb98687a7db839ecc50.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/12/abdd0fb6a059d600291d00f2c7466f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/17/0bfef86cbc30e869bbf6eb2961cda9.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/19/31a9e49f5a00a29cdf1eea33900edc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/19/bab5980f3838f948f36136bd269664.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/1c/67b7350a501064cb31069e9b21ecc9.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/1d/47d544e55aae3be2936c7d7fef6b64.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/1e/42a5f42ebd3c620f2f12c56c3d2426.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/1f/7d5f54896f7a8c8be54a753268666e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/20/5f1bcdaf004a2e2f9496586d1db9d1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/21/5ebbd88c309d287d084810847b1fa5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/23/d32e7a6d926b0a9e5934cd0ce3e0a9.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/23/fb5429d30ff72dc9785f4c43ebf140.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/24/86991e6a6fbda371f41ef13cb88716.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/26/3c95f8afca68b62fd696d2cfde18e2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/26/ae5a38c1ba3991d889609aa308fc0e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/29/46ed79a5466d065418aa624474e1e1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/29/5dd2a17e07881778f647defa630218.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/2b/4f86326297c642ae60388ab2fc2a31.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/2f/68229469c9df528360e5e027b3feb5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/30/82d5181a00a7074b50e98c3ff5865e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/30/cdd35b4676b8b2eff37713d253b651.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/31/63dac54e463deabf2678ce526fdcb2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/31/71cea0363537736465d21072bc3531.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/35/4176c6c960bcb02dde029e38cdc0d0.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/39/bf48608b3f625ffbe39f7ea95918f4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/3a/d8c7054dfe38b8529d1ca56f8d687e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/3b/8b5fce0a760e98941b44ae38ce9b4e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/3c/a5d204141e6649e52519a4fad8026c.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/3c/c7b0395cac7ecedc40548751ccf98f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/3d/5ef4693c47bef6381e37d835e34b08.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/3d/a0b1fe2b6528de900d4dac148e4e6f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/43/8b266d84f2d48183be0f8d766588e4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/44/0666b4197d569f8a4dc8d2480aafb6.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/44/2260148ff255f1ce9d2258eb07dbc3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/45/9875ec18bd0916b4e675de09bcf323.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/45/ad157d8a3e460e1530066634f22e8b.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/47/30a8cdada6cb82103374f33d494525.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/4b/9a84444e7a4155aec70e31e590df0e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/4c/02425eed21745057bc110d855c3c6f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/4c/803729e4c53a566ac3b963a9b45cd7.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/4c/8ec487c8f189357c0c1f226369b04f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/50/82495456a65674332290039b9a43ad.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/51/21d7444383f397edeb1f6a370ce437.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/54/db7851bacffe41c78e040b9c7fd1a6.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/59/d882c629e26df71b1305896076cd09.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/5a/0e2f688436da2643a9fcf93bc2b514.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/5c/15a7b0ff2d54fd906a086ae4a2ccc1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/5c/16a6d2f809ef33dfcdc541ff448de4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/5d/26c689ffb3ea9a2d2508f0afb688b7.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/5e/acd9037594cc0f149a5ecc9f20e90e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/62/649c6000888bc8b2016d8abce54639.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/64/46711f380204ef87a601ed0dbe318e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/66/2e0415391b5a1d0ab5588dbd9005ed.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/66/606481bd32ab346cb8aeeadcbebaf9.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/69/7b66d27e6bbe0ad0858aea2b23f308.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/6c/9904ba5d6c3e39249a158b28a38964.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/6f/1bde8c603428d4507a2f9e53e2a121.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/72/738244a617b0648766fc0b9bdd364b.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/72/dc1e93b3ceb773d4f2dffad0a9f4cc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/72/f73c0ff94f9a85e708aad7ebe13cd6.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/74/11018590b80f81f22a76ed7ff8b211.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/77/283e020a43615b12714efe64e25f14.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/77/e3d5ed52fb24c5c5af596759d8235a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/7a/26b6eb5b1fd0ca7a0d7eba33f2d918.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/7b/d679311d5a8bb6fca012913124f2de.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/7d/13804b9a5a51d5e89660824874ec7f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/7d/d2400eb72961b3a7546be121518176.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/7e/88f931b38197ce97e4d669747f6ffc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/81/e0fa0766e36a80b03348b0a6699220.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/84/2214538ec8d9b4c5ce3ae1030112be.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/84/ba7a56da882d685fb4e2433004f54a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/8b/acd69b82c872dbf90d0fd415742a99.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/8c/4fd239d81451fbbd6cf9f3a52521d6.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/8e/798256a11752949f07f9665cb45bb0.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/90/5a387462726cd849e3f3bc99d71c10.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/91/e9c1883e6bd73fdaf746c6bde82693.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/94/8e6b5a2e3171b12893d292f57a2fec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/96/a993c13565c0353e68835cbeb2085e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/97/439063597d4111dfbf6b93ae70682d.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/98/05628ceb669096ff53c8fe7d73473b.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/99/e8a7746f536f40732b0bcb2b73b570.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/9c/2c8deb7d0bdd2102f7522741567c8e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/a0/409ea09fc5a2d378db3608e46520d3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/a2/af177982547743db0adcf0ee1da0f2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/a2/cd6eaf301efa6921ecc0cc9f8b7f9e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/a4/0f4d4b963841b93d6038675a4fb91e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/a8/6dacb925930a81ffc7b850c2335bd4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/a9/e9a84fa8d4157aef0ebe087e2b4656.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/b0/5e83b56f1a6e16b3babd8d663d8a77.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/ba/fc6f626f9dec40c70cc2335ca38a9e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/bc/9f909d70be47e28912c8a32875fe4b.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/bd/014cd2c290247d75388b4a3a258311.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/bf/aa470816fec53c4d86c06ea6dadda4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/c3/0fa9ec6576f72e70df2359161758d6.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/c6/9bba0b6614e0b1956fc09c924e97e7.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/c7/3aea9bb93e3e127e354ae5235f07c1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/c9/af7c047c853d1065561afea3b530af.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/ca/66864ae4806121c62b8542265346f8.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/ce/7b3e00587d758efbe9b8e01be6ca12.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/d1/00476f921bd117f95b7f1624809433.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/d1/881cfa9d077f8e40edb14bd7fe1ab8.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/d3/9fce27a295a0ef09e317d7720a4953.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/d4/a90bf103dbcf349693af1993822217.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/d6/ce02fc4f55eb36c4e8d9ec05702c91.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/d7/bbd428308172d4b5952e3e97589e43.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/d7/df45c4fd68cf1039e876d1db3f7a09.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/d7/fd279341115d8b9c3d867759f3d39a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/d8/90e9b4c1fa7a9898234f8a025c5d9a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/da/47ca0f21d680ec36f627767f807daf.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/da/f1369ee682866de58d9c26f60151d3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/db/facdefe3e5899cab3f3a37ecb8dfec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/e2/3c059b4fb8b248ab67f6c588ca9273.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/e2/ea05f48c33d2477f7644b94dc09399.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/e3/86eeb5a03d2bb54ee9b83d75c8b7d8.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/e3/9bc0621fa9c192d2f3f3f233811127.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/e3/ae47263d235e7ac7d44fb13be607bb.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/e3/f3543aac2e3bba99b68e202118b327.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/e8/d41e3bcbcab25f17e14594ac32bc10.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/e9/8a1e6b6ae53b0a5af6ed8a2dcc3e58.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/ea/b3ee37dc4f6967708019aa876430d2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/eb/78450a064d9a9509e7a3a4c2280978.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/eb/d31cfe0fcdbe7decd2f21436acc712.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/ec/6297d76e3a38f8959f79ddd22ed5c5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/ed/395f97c0c3689ac49d6595d8a4f21e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/ed/3fb5989a8ac3222a56cf964a99a3e4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/ed/b759d1e3a1fd08af469b701f74799f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/ee/d3c1f20ad886228d9386f6052a04f6.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/ef/62dcb15b90f13ca0c1ae84bbbdb46c.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/f1/88e8838c6af9179519e3bf297c4ba0.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/f2/cb0c9abdaa48e25e6d08af0e4b2d13.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/f4/16ca7da6575498d24e4f3be93c4997.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/f5/02fcebe9aaadb5bffdc160fd58812d.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/f5/8c73708eb51069acf504d38c2066c7.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/f6/779a5fa5e007592043e98c936e8fe7.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/f6/ca471a09bfd2d90086d4d50996524a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/fa/0ff4d614d4a6f45f40cb06d147867c.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/fb/3444dd004a111a57f3a6f411283155.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/fe/9f772f8619b3097ebd051296def3ea.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/ff/1ce38f33539ab056cda5f8841b6e99.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sliit-react-base.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/course-controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/subject-controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/course-model.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/subject-model.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/course.server.routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/message.server.routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/subject.server.routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/index.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/public.78399e21.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/public.78399e21.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/public.78399e21.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/public.78399e21.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/components/course/AddCourse.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/components/course/ViewCourse.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/components/course/ViewCourseSubject.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend/config/db.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend/db-schema/schema-mapper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend/routes/course.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend/routes/subject.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend/server.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/serviceWorker.js" beforeDir="false" />
-    </list>
+    <list default="true" id="6aa4a0ce-cee7-459c-86c8-92049118a232" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -234,7 +32,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -377,12 +175,12 @@
       <workItem from="1559645771855" duration="14000" />
       <workItem from="1559659623068" duration="15648000" />
       <workItem from="1559707622728" duration="20902000" />
-      <workItem from="1559738458949" duration="1432000" />
+      <workItem from="1559738458949" duration="1879000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39962000" />
+    <option name="totallyTimeSpent" value="40409000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
